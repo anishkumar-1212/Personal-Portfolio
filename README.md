@@ -84,9 +84,9 @@ npm run build
 
 👨‍💻 Author
 
-Anish Patel
+Anish Kumar
 
-- GitHub: https://github.com/pokemon12-12
+- GitHub: https://github.com/anishkumar-1212
 - LinkedIn: https://www.linkedin.com/in/anish-kumar-2822691ba
 
 ---
